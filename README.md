@@ -7,7 +7,7 @@
 
 Создано согласно MVC-архитектуре на чистом JavaScript с использовнием концепции наблюдаемого состояния. Сборщик - webpack, стилизация - bootstrap.
 
-[Деплой на Vercel](https://frontend-project-11-git-main-sirflyingv.vercel.app/)
+[Деплой на Vercel](https://rss-agregator-popocho.vercel.app/)
 
 ![RSS агрегатор](https://user-images.githubusercontent.com/22076495/232812924-1f8e1af8-7229-470f-9dfe-7e7f4c75f3d3.png)
 
